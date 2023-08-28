@@ -1,0 +1,15 @@
+C:\Users\jalal\Desktop\DDD\Core\DDD.Contracts\bin\Debug\net7.0\DDD.Contracts.deps.json
+C:\Users\jalal\Desktop\DDD\Core\DDD.Contracts\bin\Debug\net7.0\DDD.Contracts.dll
+C:\Users\jalal\Desktop\DDD\Core\DDD.Contracts\bin\Debug\net7.0\DDD.Contracts.pdb
+C:\Users\jalal\Desktop\DDD\Core\DDD.Contracts\bin\Debug\net7.0\DDD.DomainModels.dll
+C:\Users\jalal\Desktop\DDD\Core\DDD.Contracts\bin\Debug\net7.0\DDD.DomainModels.pdb
+C:\Users\jalal\Desktop\DDD\Core\DDD.Contracts\obj\Debug\net7.0\DDD.Contracts.csproj.AssemblyReference.cache
+C:\Users\jalal\Desktop\DDD\Core\DDD.Contracts\obj\Debug\net7.0\DDD.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalal\Desktop\DDD\Core\DDD.Contracts\obj\Debug\net7.0\DDD.Contracts.AssemblyInfoInputs.cache
+C:\Users\jalal\Desktop\DDD\Core\DDD.Contracts\obj\Debug\net7.0\DDD.Contracts.AssemblyInfo.cs
+C:\Users\jalal\Desktop\DDD\Core\DDD.Contracts\obj\Debug\net7.0\DDD.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\jalal\Desktop\DDD\Core\DDD.Contracts\obj\Debug\net7.0\DDD.Contracts.csproj.CopyComplete
+C:\Users\jalal\Desktop\DDD\Core\DDD.Contracts\obj\Debug\net7.0\DDD.Contracts.dll
+C:\Users\jalal\Desktop\DDD\Core\DDD.Contracts\obj\Debug\net7.0\refint\DDD.Contracts.dll
+C:\Users\jalal\Desktop\DDD\Core\DDD.Contracts\obj\Debug\net7.0\DDD.Contracts.pdb
+C:\Users\jalal\Desktop\DDD\Core\DDD.Contracts\obj\Debug\net7.0\ref\DDD.Contracts.dll

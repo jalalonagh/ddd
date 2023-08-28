@@ -1,0 +1,12 @@
+C:\Users\jalal\Desktop\DDD\Core\DDD.DomainModels\bin\Debug\net7.0\DDD.DomainModels.deps.json
+C:\Users\jalal\Desktop\DDD\Core\DDD.DomainModels\bin\Debug\net7.0\DDD.DomainModels.dll
+C:\Users\jalal\Desktop\DDD\Core\DDD.DomainModels\bin\Debug\net7.0\DDD.DomainModels.pdb
+C:\Users\jalal\Desktop\DDD\Core\DDD.DomainModels\obj\Debug\net7.0\DDD.DomainModels.csproj.AssemblyReference.cache
+C:\Users\jalal\Desktop\DDD\Core\DDD.DomainModels\obj\Debug\net7.0\DDD.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalal\Desktop\DDD\Core\DDD.DomainModels\obj\Debug\net7.0\DDD.DomainModels.AssemblyInfoInputs.cache
+C:\Users\jalal\Desktop\DDD\Core\DDD.DomainModels\obj\Debug\net7.0\DDD.DomainModels.AssemblyInfo.cs
+C:\Users\jalal\Desktop\DDD\Core\DDD.DomainModels\obj\Debug\net7.0\DDD.DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\jalal\Desktop\DDD\Core\DDD.DomainModels\obj\Debug\net7.0\DDD.DomainModels.dll
+C:\Users\jalal\Desktop\DDD\Core\DDD.DomainModels\obj\Debug\net7.0\refint\DDD.DomainModels.dll
+C:\Users\jalal\Desktop\DDD\Core\DDD.DomainModels\obj\Debug\net7.0\DDD.DomainModels.pdb
+C:\Users\jalal\Desktop\DDD\Core\DDD.DomainModels\obj\Debug\net7.0\ref\DDD.DomainModels.dll

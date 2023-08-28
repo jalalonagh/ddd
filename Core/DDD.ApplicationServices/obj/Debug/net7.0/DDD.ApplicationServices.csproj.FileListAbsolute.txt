@@ -1,0 +1,12 @@
+C:\Users\jalal\Desktop\DDD\Core\DDD.ApplicationServices\bin\Debug\net7.0\DDD.ApplicationServices.deps.json
+C:\Users\jalal\Desktop\DDD\Core\DDD.ApplicationServices\bin\Debug\net7.0\DDD.ApplicationServices.dll
+C:\Users\jalal\Desktop\DDD\Core\DDD.ApplicationServices\bin\Debug\net7.0\DDD.ApplicationServices.pdb
+C:\Users\jalal\Desktop\DDD\Core\DDD.ApplicationServices\obj\Debug\net7.0\DDD.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\jalal\Desktop\DDD\Core\DDD.ApplicationServices\obj\Debug\net7.0\DDD.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalal\Desktop\DDD\Core\DDD.ApplicationServices\obj\Debug\net7.0\DDD.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\jalal\Desktop\DDD\Core\DDD.ApplicationServices\obj\Debug\net7.0\DDD.ApplicationServices.AssemblyInfo.cs
+C:\Users\jalal\Desktop\DDD\Core\DDD.ApplicationServices\obj\Debug\net7.0\DDD.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\jalal\Desktop\DDD\Core\DDD.ApplicationServices\obj\Debug\net7.0\DDD.ApplicationServices.dll
+C:\Users\jalal\Desktop\DDD\Core\DDD.ApplicationServices\obj\Debug\net7.0\refint\DDD.ApplicationServices.dll
+C:\Users\jalal\Desktop\DDD\Core\DDD.ApplicationServices\obj\Debug\net7.0\DDD.ApplicationServices.pdb
+C:\Users\jalal\Desktop\DDD\Core\DDD.ApplicationServices\obj\Debug\net7.0\ref\DDD.ApplicationServices.dll

@@ -1,0 +1,12 @@
+C:\Users\jalal\Desktop\DDD\Infrastructure\DB\DDD.Infrastructure.DB.SqlServer\bin\Debug\net7.0\DDD.Infrastructure.DB.SqlServer.deps.json
+C:\Users\jalal\Desktop\DDD\Infrastructure\DB\DDD.Infrastructure.DB.SqlServer\bin\Debug\net7.0\DDD.Infrastructure.DB.SqlServer.dll
+C:\Users\jalal\Desktop\DDD\Infrastructure\DB\DDD.Infrastructure.DB.SqlServer\bin\Debug\net7.0\DDD.Infrastructure.DB.SqlServer.pdb
+C:\Users\jalal\Desktop\DDD\Infrastructure\DB\DDD.Infrastructure.DB.SqlServer\obj\Debug\net7.0\DDD.Infrastructure.DB.SqlServer.csproj.AssemblyReference.cache
+C:\Users\jalal\Desktop\DDD\Infrastructure\DB\DDD.Infrastructure.DB.SqlServer\obj\Debug\net7.0\DDD.Infrastructure.DB.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalal\Desktop\DDD\Infrastructure\DB\DDD.Infrastructure.DB.SqlServer\obj\Debug\net7.0\DDD.Infrastructure.DB.SqlServer.AssemblyInfoInputs.cache
+C:\Users\jalal\Desktop\DDD\Infrastructure\DB\DDD.Infrastructure.DB.SqlServer\obj\Debug\net7.0\DDD.Infrastructure.DB.SqlServer.AssemblyInfo.cs
+C:\Users\jalal\Desktop\DDD\Infrastructure\DB\DDD.Infrastructure.DB.SqlServer\obj\Debug\net7.0\DDD.Infrastructure.DB.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\jalal\Desktop\DDD\Infrastructure\DB\DDD.Infrastructure.DB.SqlServer\obj\Debug\net7.0\DDD.Infrastructure.DB.SqlServer.dll
+C:\Users\jalal\Desktop\DDD\Infrastructure\DB\DDD.Infrastructure.DB.SqlServer\obj\Debug\net7.0\refint\DDD.Infrastructure.DB.SqlServer.dll
+C:\Users\jalal\Desktop\DDD\Infrastructure\DB\DDD.Infrastructure.DB.SqlServer\obj\Debug\net7.0\DDD.Infrastructure.DB.SqlServer.pdb
+C:\Users\jalal\Desktop\DDD\Infrastructure\DB\DDD.Infrastructure.DB.SqlServer\obj\Debug\net7.0\ref\DDD.Infrastructure.DB.SqlServer.dll

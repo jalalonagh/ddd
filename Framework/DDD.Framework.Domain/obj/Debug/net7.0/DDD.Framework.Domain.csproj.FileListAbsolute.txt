@@ -1,0 +1,12 @@
+C:\Users\jalal\Desktop\DDD\Framework\DDD.Framework.Domain\bin\Debug\net7.0\DDD.Framework.Domain.deps.json
+C:\Users\jalal\Desktop\DDD\Framework\DDD.Framework.Domain\bin\Debug\net7.0\DDD.Framework.Domain.dll
+C:\Users\jalal\Desktop\DDD\Framework\DDD.Framework.Domain\bin\Debug\net7.0\DDD.Framework.Domain.pdb
+C:\Users\jalal\Desktop\DDD\Framework\DDD.Framework.Domain\obj\Debug\net7.0\DDD.Framework.Domain.csproj.AssemblyReference.cache
+C:\Users\jalal\Desktop\DDD\Framework\DDD.Framework.Domain\obj\Debug\net7.0\DDD.Framework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalal\Desktop\DDD\Framework\DDD.Framework.Domain\obj\Debug\net7.0\DDD.Framework.Domain.AssemblyInfoInputs.cache
+C:\Users\jalal\Desktop\DDD\Framework\DDD.Framework.Domain\obj\Debug\net7.0\DDD.Framework.Domain.AssemblyInfo.cs
+C:\Users\jalal\Desktop\DDD\Framework\DDD.Framework.Domain\obj\Debug\net7.0\DDD.Framework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jalal\Desktop\DDD\Framework\DDD.Framework.Domain\obj\Debug\net7.0\DDD.Framework.Domain.dll
+C:\Users\jalal\Desktop\DDD\Framework\DDD.Framework.Domain\obj\Debug\net7.0\refint\DDD.Framework.Domain.dll
+C:\Users\jalal\Desktop\DDD\Framework\DDD.Framework.Domain\obj\Debug\net7.0\DDD.Framework.Domain.pdb
+C:\Users\jalal\Desktop\DDD\Framework\DDD.Framework.Domain\obj\Debug\net7.0\ref\DDD.Framework.Domain.dll

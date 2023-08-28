@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Rule\Configurations\" />
+    <Folder Include="Rule\DbContexts\" />
+    <Folder Include="Rule\Repositories\" />
+    <Folder Include="UserAddress\Configurations\" />
+    <Folder Include="UserAddress\DbContexts\" />
+    <Folder Include="UserAddress\Repositories\" />
+    <Folder Include="User\Configurations\" />
+    <Folder Include="User\" />
+    <Folder Include="User\DbContexts\" />
+    <Folder Include="User\Repositories\" />
+  </ItemGroup>
+
+</Project>
